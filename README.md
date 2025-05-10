@@ -102,7 +102,7 @@
 
   [![Gmail](https://img.shields.io/badge/Gmail-2e3440?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:guilhermecunhardl@gmail.com)
   [![Instagram](https://img.shields.io/badge/Instagram-2e3440?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/goodnight_twiig/)
-  [![Linkedin](https://img.shields.io/badge/LinkedIn-2e3440?style=for-the-badge&logo=linkedin&logoColor=fff)](www.linkedin.com/in/guilherme-cunha-rodrigues-de-lima-87619b365)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-2e3440?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/guilherme-cunha-rodrigues-de-lima-87619b365)
 [![Site](https://img.shields.io/badge/Portfólio-2e3440?style=for-the-badge&logo=vercel&logoColor=fff)](https://seudominio.com)
 [![Notion](https://img.shields.io/badge/Notion-2e3440?style=for-the-badge&logo=Notion&logoColor=fff)](https://www.notion.so/HOME-1ee646a1470b80e2b0a1d86b8cb65ea4?pvs=4)
 
