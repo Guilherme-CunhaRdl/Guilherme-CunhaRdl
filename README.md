@@ -119,4 +119,15 @@
 <br>
 <br>
 
+<div align="center">
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Guilherme-CunhaRdl/Guilherme-CunhaRdl/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Guilherme-CunhaRdl/Guilherme-CunhaRdl/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Guilherme-CunhaRdl/Guilherme-CunhaRdl/output/github-contribution-grid-snake.svg">
+</picture>
+</div>
+
+<br>
+<br>
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=200&color=6d22ce&section=footer"/>
