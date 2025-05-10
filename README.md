@@ -1,14 +1,15 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=6d22ce&section=header&reversal=true"/>
 
 <div align="center">
-  <samp>
-    <b>
-   プログラミングの学生
-    </b>
-      <br>
-      Hi there! I'm Guilherme Cunha
-      <br>
-  </samp>
+<samp>
+  <b>
+    <span style="font-size: 30px;">プログラミングの学生</span>
+  </b>
+  <br>
+  <span style="font-size: 40px;">Hi there! I'm Guilherme Cunha</span>
+  <br>
+</samp>
+
 </div>
 <div align="center">
   <p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FGuilherme-CunhaRdl&s=21&c=6d22ce&bg=00000000&no=8&ff=digii&tb=PROFILE+VISITS%3A+&ta=" /></p> 
@@ -24,7 +25,7 @@
 
 
 <div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&weight=900&size=21&pause=1000&color=680BB8&center=true&width=435&lines=Hello%2C+I+am+from+Brazil;I'm+a+systems+development+student;Be+Welcome!" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com/?font=Iosevka&weight=900&size=21&pause=1000&color=680BB8&center=true&width=435&lines=Hello%2C+I+am+from+Brazil;My+name+is+Guilherme+Cunha;I%27m+a+systems+development+student;Be+Welcome!" alt="Typing SVG"/>
 </div>
 
 <br>
